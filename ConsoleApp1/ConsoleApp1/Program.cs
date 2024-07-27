@@ -64,6 +64,7 @@ namespace ConsoleApp1
             finally
             {
                 Console.WriteLine("Execution completed.");
+                ToString();
             }
         }
     }
